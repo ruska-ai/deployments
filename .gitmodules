@@ -16,3 +16,9 @@
 [submodule "langstream"]
 	path = langstream
 	url = git@github.com:ryaneggz/langstream.git
+[submodule "langgraph-sandbox"]
+	path = langgraph-sandbox
+	url = git@github.com:ryaneggz/langgraph-sandbox.git
+[submodule "a2a-langgraph"]
+	path = a2a-langgraph
+	url = git@github.com:enso-labs/a2a-langgraph.git
